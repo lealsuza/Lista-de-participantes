@@ -7,7 +7,7 @@ Este é um aplicativo de celular simples desenvolvido com React Native e TypeScr
 - O que é o Expo
 - Estrutura de pastas e arquivos
 - Densidade de Pixel
-- Componentes (TextInput, TouchableOpacity, Propriedades e StatusBar
+- Componentes (TextInput, TouchableOpacity, Propriedades e StatusBar)
 - Listas (ScrollView e FlatList)
 - Hooks (useState, Manipulação de Estados, Estado Assíncrono, Render e Imutabilidade)
 - Alert
